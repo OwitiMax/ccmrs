@@ -1,0 +1,9 @@
+.App{
+  align-items: center;
+}
+.videos{
+  display: flex;
+  justify-content: space-between; /* Distributes items evenly */
+  align-items: center; /* Aligns items vertically in the center */
+  padding: 10px;
+}
